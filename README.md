@@ -40,6 +40,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
+## Coding Interview Practice:
+- [advantofcode](https://adventofcode.com/2021/day/1)
+
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
